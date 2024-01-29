@@ -14,6 +14,6 @@ This project use only HTML and CSS ~~(Bootstrap)~~ to create 6 pages of a websit
 > 5. items-search.html (display item according to keyword searched)
 > 6. order.html (display user's order)
 >
-> 
+> https://github.com/tratramy/cosmetics-sale-website/assets/134936661/c88bb6c4-bba1-4362-ab1a-d652ae4e8528
 
 ### @ 2024 tratramy | www.linkedin.com/in/tratramy47
